@@ -18,7 +18,7 @@ body {
     margin: 0;
     background-position: center;
     background-size: 100%;
-    background-image: url("https://github.com/TokitoKusun/tokitokusun.github.io/blob/main/Assets/profile.png");
+    background-image: url("https://./Assets/profile.png");
     position: relative;
     color: white;
     border-color: transparent;
